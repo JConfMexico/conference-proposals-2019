@@ -3,9 +3,9 @@
 Java Development Day call for Papers is now open.
 
 ## Event
-Where: Guadalajara, Mexico
-When: September 21th
-Planned asistant: ~500
+- Where: Guadalajara, Mexico
+- When: September 21th
+- Planned asistant: ~500
 
 ### Submit a Proposal
 
