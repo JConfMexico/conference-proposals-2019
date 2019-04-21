@@ -1,4 +1,6 @@
 ---
+name: Techtalk
+about: 45-50 minutes long talk session
 title: 'Techtalk'
 labels: Techtalk
 assignees: sierisimo,heryxpc,FcoJavierSainz
