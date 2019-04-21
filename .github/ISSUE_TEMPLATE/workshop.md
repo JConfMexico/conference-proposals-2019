@@ -1,4 +1,6 @@
 ---
+name: Workshop
+about: 1 hour 50 minutes long Hands-on session
 title: 'Workshop'
 labels: Workshop
 assignees: sierisimo,heryxpc,FcoJavierSainz
